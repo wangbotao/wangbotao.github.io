@@ -3,19 +3,13 @@
 Ph.D  
 Senior Engineer  
 Qualcomm (Shanghai) Co., Ltd.   
-Research interests: computer vision
-
----
-
-##Contact
-
-Email: wangbotao{at}outlook{dot}com
-
+Research interests: computer vision  
+Email: wangbotao{at}outlook{dot}com  
 Homepage: <https://wangbotao.github.io/>
 
 ---
 
-##Publication
+##Publications
 
 ###Journal Papers
 
@@ -116,4 +110,4 @@ accepted by *IEEE Transactions on Circuits and Systems for Video Technology (TCS
 
 * 2010 - 2016:  Ph.D, Advisor: Prof. [Hongkai Xiong](http://min.sjtu.edu.cn/xhk.htm), [Institute of Multimedia, Information, and Network (MIN)](http://min.sjtu.edu.cn), Department of Electronic Engineering, Shanghai Jiao Tong University.
 
-* 2006 - 2010: Bachelor's degree, Department of Electronic Engineering, Shanghai Jiao Tong University.
+* 2006 - 2010: Bachelor, Department of Electronic Engineering, Shanghai Jiao Tong University.
