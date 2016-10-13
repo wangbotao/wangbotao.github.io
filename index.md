@@ -22,8 +22,8 @@ Homepage: <https://wangbotao.github.io/>
 * **Botao Wang**, Hongkai Xiong, Junni Zou, Weiyao Lin, and Yuan F. Zheng  
 **Multitask Learning of Compact Semantic Codebooks for Context-aware Scene Modeling**  
 *IEEE Transactions on Image Processing (TIP)*, vol. 25, no. 11, pp. 5411-5426, Nov. 2016.  
-[[PDF]()]
-[[Bibtex]()]
+[[PDF](http://min.sjtu.edu.cn/files/papers/2016/Journal/2016-TIP-CV-WANGBOTAO/MCL_TIP16.pdf)]
+[[Bibtex](http://min.sjtu.edu.cn/files/papers/2016/Journal/2016-TIP-CV-WANGBOTAO/MCL_TIP16.txt)]
 [[IEEE Xplore](http://ieeexplore.ieee.org/document/7563320/)]
 
 * **Botao Wang**, Dahua Lin, Hongkai Xiong, and Yuan F. Zheng  
