@@ -13,6 +13,11 @@ Homepage: <https://wangbotao.github.io/>
 
 ###Journal Papers
 
+* **Botao Wang**, Zhihui Fu, Hongkai Xiong, Yuan F. Zheng  
+**Transductive Video Segmentation on Tree-Structured Model**  
+*IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, vol. 27, no. 5, pp. 992-1005, May 2017.   
+[[IEEE Xplore](http://ieeexplore.ieee.org/document/7401019/)]
+
 * **Botao Wang**, Hongkai Xiong, Junni Zou, Weiyao Lin, Yuan F. Zheng  
 **Multitask Learning of Compact Semantic Codebooks for Context-aware Scene Modeling**  
 *IEEE Transactions on Image Processing (TIP)*, vol. 25, no. 11, pp. 5411-5426, Nov. 2016.  
@@ -27,11 +32,6 @@ Homepage: <https://wangbotao.github.io/>
 [[Bibtex](http://min.sjtu.edu.cn/files/papers/2016/Journal/2016-TMM-CV-WANGBOTAO/tos_tmm16.txt)]
 [[IEEE Xplore](http://ieeexplore.ieee.org/document/7387771/)]
 [[Dataset](http://ivm.sjtu.edu.cn/files/pascal-sentences.zip)]
-
-* **Botao Wang**, Zhihui Fu, Hongkai Xiong, Yuan F. Zheng  
-**Transductive Video Segmentation on Tree-Structured Model**  
-accepted by *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 2016.   
-[[IEEE Xplore](http://ieeexplore.ieee.org/document/7401019/)]
 
 * **Botao Wang**, Hongkai Xiong, Xiaoqian Jiang, Yuan F. Zheng  
 **Data-driven Hierarchical Structure Kernel for Multiscale Part Based Object Recognition**  
