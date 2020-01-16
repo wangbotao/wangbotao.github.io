@@ -1,7 +1,7 @@
-##Botao Wang
+## Botao Wang
 
 Ph.D  
-Senior Engineer  
+Staff Engineer  
 Qualcomm (Shanghai) Co., Ltd.   
 Research interests: computer vision  
 Email: wangbotao{at}outlook{dot}com  
@@ -9,9 +9,9 @@ Homepage: <https://wangbotao.github.io/>
 
 ---
 
-##Publications
+## Publications
 
-###Journal Papers
+### Journal Papers
 
 * **Botao Wang**, Zhihui Fu, Hongkai Xiong, Yuan F. Zheng  
 **Transductive Video Segmentation on Tree-Structured Model**  
@@ -54,11 +54,16 @@ Homepage: <https://wangbotao.github.io/>
 [[Bibtex](http://min.sjtu.edu.cn/files/papers/2013/Journal/2013-TCSVT-CV-XIONGHONGKAI/tmo_tcsvt13.txt)]
 [[IEEE Xplore](http://ieeexplore.ieee.org/document/6253237/)]
 
-###Conference Papers
+### Conference Papers
+
+* Yuhui Xu, Yuxi Li, Shuai Zhang, Wei Wen, **Botao Wang**, Wenrui Dai, Yingyong Qi, Yiran Chen, Weiyao Lin, Hongkai Xiong  
+**Trained Rank Pruning for Efficient Deep Neural Networks**  
+*The NeurIPS-EMC2 Workshop on Energy Efficient Machine Learning and Cognitive Computing*, Vancouver, Canada, Dec. 2019.
 
 * Saijie Ni, Xiaopeng Zhang, **Botao Wang**, Hongkai Xiong  
 **Webly-supervised Visual Concept Learning with Cardinality Guided Instance Mining and Clustered Multitask Refinement**  
-accepted by *IEEE International Conference on Multimedia and Expo (ICME'17)*, Hong Kong, July 2017.  
+*IEEE International Conference on Multimedia and Expo (ICME'17)*, Hong Kong, July 2017.  
+[[IEEE Xplore](https://ieeexplore.ieee.org/document/8019489)]
 
 * Saijie Ni, **Botao Wang**, Hongkai Xiong  
 **Layer-Wise Supervised Neural Network for Face Alignment with Multi-Task Regularization**  
@@ -106,9 +111,9 @@ accepted by *IEEE International Conference on Multimedia and Expo (ICME'17)*, Ho
 
 ---
 
-##Experience
+## Experience
 
-* 2016 - Present: Senior Engineer, Qualcomm (Shanghai) Co., Ltd.
+* 2016 - Present: Staff Engineer, Qualcomm (Shanghai) Co., Ltd.
 
 * 2013 - 2014: Visiting student, [Toyota Technological Institute at Chicago (TTIC)](http://www.ttic.edu), University of Chicago.
 
