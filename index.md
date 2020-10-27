@@ -4,7 +4,7 @@ Ph.D
 Staff Engineer  
 Qualcomm (Shanghai) Co., Ltd.   
 Research interests: computer vision  
-Email: wangbotao{at}outlook{dot}com  
+Email: botaow{at}foxmail{dot}com  
 Homepage: <https://wangbotao.github.io/>
 
 ---
@@ -56,9 +56,19 @@ Homepage: <https://wangbotao.github.io/>
 
 ### Conference Papers
 
+* Bowen Shi, Yuhui Xu, Wenrui Dai, **Botao Wang**, Shuai Zhang, Chenglin Li, Junni Zou, Hongkai Xiong  
+**Tiny-HourglassNet: An Efficient Design for 3D Human Pose Estimation**  
+*IEEE International Conference on Image Processing (ICIP 2020)*, Abu Dhabi, United Arab Emirates, Oct. 2020.
+
+* Yuhui Xu, Y. Li, S. Zhang, W. Wen, **Botao Wang**, Yingyong Qi, Y. Chen, Weiyao Lin, Hongkai Xiong  
+**TRP: Trained Rank Pruning for Efficient Deep Neural Networks**  
+*International Joint Conference on Artificial Intelligence (IJCAI 2020)*, Yokohama, Japan, July 2020  
+[[arXiv](https://arxiv.org/abs/2004.14566)]
+
 * Yuhui Xu, Yuxi Li, Shuai Zhang, Wei Wen, **Botao Wang**, Wenrui Dai, Yingyong Qi, Yiran Chen, Weiyao Lin, Hongkai Xiong  
 **Trained Rank Pruning for Efficient Deep Neural Networks**  
-*The NeurIPS-EMC2 Workshop on Energy Efficient Machine Learning and Cognitive Computing*, Vancouver, Canada, Dec. 2019.
+*The NeurIPS-EMC2 Workshop on Energy Efficient Machine Learning and Cognitive Computing*, Vancouver, Canada, Dec. 2019.  
+[[arXiv](https://arxiv.org/abs/1812.02402)]
 
 * Saijie Ni, Xiaopeng Zhang, **Botao Wang**, Hongkai Xiong  
 **Webly-supervised Visual Concept Learning with Cardinality Guided Instance Mining and Clustered Multitask Refinement**  
